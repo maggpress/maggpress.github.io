@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Markdown and HTML
+title: New developer attends 90's concert, has blast
 ---
 
-Jeykll supports the use of [Markdown](http://daringfireball.net/projects/markdown/syntax) with inline HTML tags which makes it easier to quickly write posts with Jekyll, without having to worry too much about text formatting. A sample of the formatting follows.
+Web developer [Beth Fitzgerald](http://maggpress.com) attended the I Love The 90's Concert with friends Friday evening. Artist like Rob Base and Salt and Pepa floores. While has beens, Vanila Ice and Color Me Bad flopped. A good time was had by all. 
 
-Tables have also been extended from Markdown:
+Tables show the good, bad:
 
-First Header  | Second Header
+Super Good  | Super Bad
 ------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+Rob Base  | Vanilla Ice
+Salt & Pepa  | Color Me Bad
 
 Here's an example of an image, which is included using Markdown:
 

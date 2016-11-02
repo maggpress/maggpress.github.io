@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Feature images
+title: Bloc rocks
 feature-img: "img/sample_feature_img.png"
 ---
-This is an example of a post which includes a feature image specified in the front matter of the post. The feature image spans the full-width of the page, and is shown with the title on permalink pages.
+Bloc proves to be a rigorus program. Beth is enjoying. Alex S. is a fabulous mentor. He loves the O'Town song, "I want it all." That is hysterical.
+
+Post last updated 10.31.16
